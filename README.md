@@ -10,20 +10,20 @@
 - CollegeName: _G PullaReddy Engineering College_
 - Branch: CSE<br>
 - yearofpass: 2020
-- percentage: 60%<br>
+- percentage: 57%<br>
 - Address: Kurnool<br>
 **Diploma**
 - CollegeName: PLOYTECHNIC
 - Branch: CSE<br>
 - yearofpass: 2017
-- percentage: 60%<br>
+- percentage: 65%<br>
 - Address: Kurnool<br>
 **School**
 - SchoolName: Adarsha Vidyamandir
 - yearofpass: 2014
-- percentage: 60%<br>
+- percentage: 62%<br>
 ### **Skills**
-- Python: 80%
+- MySQL:60%
 - java: 80%
 - C programming: 60%
 ### **Goals**
